@@ -1,0 +1,40 @@
+{
+  "PC_HTML/Pc_AcceptMeal.html": {
+    "href": "PC_HTML/Pc_AcceptMeal.html",
+    "resources": [
+      "img/login-bg.png",
+      "js/jquery-3.3.1.js",
+      "js/bootstrap.js",
+      "js/bootstrap-select.js",
+      "css/boostrap/bootstrap.css",
+      "css/fonts/glyphicons-halflings-regular.eot",
+      "css/fonts/glyphicons-halflings-regular.woff2",
+      "css/fonts/glyphicons-halflings-regular.woff",
+      "css/fonts/glyphicons-halflings-regular.ttf",
+      "css/fonts/glyphicons-halflings-regular.svg",
+      "css/select/bootstrap-select.css",
+      "css/button.css"
+    ],
+    "refer": [
+      "PC_HTML/Pc_menuPage.html"
+    ],
+    "priority": 6
+  },
+  "PC_HTML/Pc_menuPage.html": {
+    "href": "PC_HTML/Pc_menuPage.html",
+    "resources": [],
+    "refer": [
+      "PC_HTML/Pc_AcceptMeal.html"
+    ],
+    "priority": 2
+  },
+  "device.html": {
+    "href": "device.html",
+    "resources": [
+      "css/button.css",
+      "img/logo.png"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
